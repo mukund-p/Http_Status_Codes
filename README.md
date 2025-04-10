@@ -1,4 +1,4 @@
-# Http_Status_Codes
+# HTTP Status Codes
 
 ## 1. Informational Responses (100–199)
 
@@ -67,3 +67,5 @@
 - **504 Gateway Timeout**: The server was acting as a gateway or proxy and did not receive a timely response from the upstream server.
 - **505 HTTP Version Not Supported**: The server does not support the HTTP protocol version used in the request.
 - **511 Network Authentication Required**: The client needs to authenticate to gain network access.
+
+
